@@ -106,7 +106,7 @@ const WelcomeScreen: React.FC = () => {
 
       <View style={styles.bottomSection}>
         <AppButton
-          title="Create Account"
+          title="Get Started"
           onPress={() => navigation.navigate('Signup')}
           style={{ marginBottom: normalize(14) }}
         />
