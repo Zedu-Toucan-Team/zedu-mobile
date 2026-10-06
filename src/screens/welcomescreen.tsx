@@ -111,7 +111,7 @@ const WelcomeScreen: React.FC = () => {
           style={{ marginBottom: normalize(14) }}
         />
         <AppButton
-          title="Login"
+          title="Sign In"
           variant="secondary"
           onPress={() => navigation.navigate('Signin')}
         />
