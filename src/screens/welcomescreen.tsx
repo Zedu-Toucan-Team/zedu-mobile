@@ -81,7 +81,7 @@ const WelcomeScreen: React.FC = () => {
 
       <View style={styles.middleSection}>
         <AppText variant="bold" style={styles.welcomeTitle}>
-          Welcome to Zedu
+          Welcome to Zedu 👋
         </AppText>
 
         <AppText size={13} style={styles.legalText}>
